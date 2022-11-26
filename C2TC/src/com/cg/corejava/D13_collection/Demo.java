@@ -1,4 +1,4 @@
-package com.cg.corejava_Day13_collection;
+package com.cg.corejava.D13_collection;
 
 public class Demo {
 
